@@ -1,0 +1,9 @@
+1. generate the initial coordinatary nodes (a common zone mark, namely reference grid);
+2. define and set the nodes pattern which will be used in the following computing;
+3. make an index for each nodes according to my computing method needing;
+4. built all the necessary physical field;
+5. initial those physical value using every boundary and initial conditions;
+6. calculate the generated mesh information based on the simulating method (every diserate equation coefficience at each nodes);
+7. establish the node control diserate equation;
+8. integrate the whole matrix equation at each stage;
+9. design and create the equation solvers and some math operator code implemention. 

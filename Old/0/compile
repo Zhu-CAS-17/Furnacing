@@ -1,0 +1,5 @@
+gfortran -c gr_model.f -o gr_model.o
+gfortran -c splint.f -o splint.o
+gfortran -c user.f -o user.o
+gfortran gr_model.o splint.o user.o sc_new.f -o sc_new
+

@@ -1,0 +1,6 @@
+rr_c_t zb_c_t zt_c_t
+0.008  0.215   0.255
+rr_c_l zb_c_l  zt_c_l
+0.008   -0.005  -0.085
+rc   zb0   zt0  z_pres  z_pres2
+0.030   0.113   0.163   0.036  0.113

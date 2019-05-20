@@ -1,0 +1,4 @@
+ title="zbzhang"
+ variables ="i","r","z","T(K)"
+         142         143
+ zone t= "crystal",i= 25 , j=  0 , f= point

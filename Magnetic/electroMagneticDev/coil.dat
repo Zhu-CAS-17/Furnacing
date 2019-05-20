@@ -1,0 +1,16 @@
+10000
+-0.047 0.202 0.055  0.002  0.02  0.006
+
+frequency of induction heating
+coil_xx0, coil_yy0,coil_dxx,width_coil,xx_r,yy_r
+coil_xx0: coordinate in vertical direction old value: -0.019 
+
+use new value: 20+315-(12+270+90)=-37
+12: thickness of container
+270: height of elevator
+80: thickness of insulation below susceptor
+315: height of coil from desktop
+
+how about assume the coil_xx0 is 0.01 lower, and with a gap 0.01/4 larger
+orig: coil_xx0=-0.037 coil_dxx=0.05
+coil_xx0=-0.047 coil_dxx=0.055

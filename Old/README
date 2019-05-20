@@ -7,3 +7,6 @@
 7. establish the node control diserate equation;
 8. integrate the whole matrix equation at each stage;
 9. design and create the equation solvers and some math operator code implemention. 
+
+Furnacing/Old/: inital code for temperature.
+Furnacing/Magnetic/electroMagneticDev: my magnetic module
